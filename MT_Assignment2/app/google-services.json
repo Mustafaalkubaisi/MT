@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791715744522",
+    "project_id": "mtassignment2-d52ef",
+    "storage_bucket": "mtassignment2-d52ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791715744522:android:2cc90952996b9490b288f3",
+        "android_client_info": {
+          "package_name": "com.example.mt_assignment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOfq4cIVasNz6qr3HZpojkbAbye7gHXNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
